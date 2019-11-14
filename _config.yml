@@ -107,5 +107,5 @@ disqus:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:sanvibyfish/hexo.git
+  repo: git@github.com:sanvibyfish/sanvibyfish.github.com.git
   branch: master
