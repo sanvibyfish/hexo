@@ -1,0 +1,24 @@
+### How to Run 
+```
+$ npm install
+$ hexo server
+$ open http://localhost:4000/
+```
+### Genergate sitemap
+
+```
+hexo clean
+hexo g
+```
+向谷歌提交sitemap http://fionat.github.io/blog/2014/10/23/sitemap/
+向百度提交sitemap http://www.sousuoyinqingtijiao.com/baidu/tijiao/
+
+### Command
+
+```
+$ hexo new "postName" #新建文章
+$ hexo new page "pageName" #新建页面
+$ hexo d -g #生成部署
+$ hexo s -g #生成预览
+
+```
